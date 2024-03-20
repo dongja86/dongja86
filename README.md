@@ -1,4 +1,4 @@
-### Hi there 👋
+### 수업용 👋
 
 <!--
 **dongja86/dongja86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
